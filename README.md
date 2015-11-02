@@ -6,9 +6,10 @@ For Elementary OS or Ubuntu.
 
 ![](screenshots/1.png)
 
+![](screenshots/3.png)
+
 ![](screenshots/2.png)
 
-![](screenshots/3.png)
 
 ## Usage
 
